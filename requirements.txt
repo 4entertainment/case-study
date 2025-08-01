@@ -1,0 +1,8 @@
+streamlit
+weaviate-client
+sentence-transformers
+unstructured
+pdfminer.six
+python-magic
+pypandoc
+unstructured[local-inference]

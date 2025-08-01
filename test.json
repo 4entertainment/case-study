@@ -1,0 +1,49 @@
+[
+  {
+    "query": "Sentrozomun hücre bölünmesindeki rolü nedir?",
+    "relevant_passages": [
+      "Sentrozom hücre bölüneceği zaman eşlenir ve bölünme sırasında kromozomların kutuplara hareketini sağlayan iğ ipliklerini meydana getirir."
+    ]
+  },
+  {
+    "query": "Sentrozomun yapısında hangi alt birimler bulunur?",
+    "relevant_passages": [
+      "Bir sentrozom, birbirine dik olarak yerleşmiş iki adet sentriyolden oluşur. Her bir sentriyol, dokuz adet üçerli mikrotübülden meydana gelir."
+    ]
+  },
+  {
+    "query": "Bitkilerde sentrozom var mıdır?",
+    "relevant_passages": [
+      "Mantarlarda ve bitkilerin neredeyse tamamında sentriol bulunmaz."
+    ]
+  },
+  {
+    "query": "Hücre iskeletinin görevleri nelerdir?",
+    "relevant_passages": [
+      "Organellerin sitoplazma içinde yer değiştirmesinde görev alır.",
+      "Çekirdeğin ve organellerin yerinin sabitlenmesinde ve sitoplazma hareketlerinde görevlidir.",
+      "Hücre bölünmesi sırasında görev alır.",
+      "Sil ve kamçı oluşumunda, amip gibi hücrelerde yalancı ayak oluşumunda etkilidir.",
+      "Hücreye destek olur ve hücrenin şeklini belirler."
+    ]
+  },
+  {
+    "query": "Prokaryot ve ökaryot hücreler arasında çekirdek yapısı farkı nedir?",
+    "relevant_passages": [
+      "Bakteri hücrelerinde çekirdek zarı bulunmaz, DNA dairesel yapılıdır.",
+      "Bitki ve hayvan hücrelerinde çekirdek zarı bulunur ve DNA doğrusal yapıdadır."
+    ]
+  },
+  {
+    "query": "Lizozom hangi hücrelerde bulunur?",
+    "relevant_passages": [
+      "Lizozom bakteri hücrelerinde bulunmaz. Yüksek yapılı bitkilerde bulunmaz, hayvan hücrelerinde bulunur."
+    ]
+  },
+  {
+    "query": "Tüm hücrelerde ortak olan organel hangisidir?",
+    "relevant_passages": [
+      "Tüm canlılarda ortak olarak bulunan organel ribozomdur. Ribozom bakteri, bitki ve hayvan hücrelerinde bulunur."
+    ]
+  }
+]
